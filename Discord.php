@@ -22,7 +22,7 @@ class Discord
     {
         global $IP, $Date, $Time, $WebhookName;
 
-        $Webhook = "https://discord.com/api/webhooks/1226510871526641684/Nf__JWcM-8SNJ6WCQHwuroKTp3l0l6BnByWVYGtar8eZ12uX2f9cP3m8TdRmNfEvT4S7";
+        $Webhook = "TON_WEBHOOK";
 
         $InfoArr = array(
             "username" => "$WebhookName",
